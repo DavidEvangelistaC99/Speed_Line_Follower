@@ -1,7 +1,7 @@
 # Line Follower Project
 
 <p align="center">
-  <img src="images/reference.jpg" width="900">
+  <img src="images/reference.png" width="900">
 </p>
 
 <p align="center">

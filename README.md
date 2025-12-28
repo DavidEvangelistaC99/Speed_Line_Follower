@@ -6,7 +6,7 @@ This repository documents the progress of the line follower project, developed d
 ## Repository Structure
 
 - `Speedline_Follower/`: project's schematic diagrams and PCB layout
-- `datasheet/`: basic KiCad example 
+- `datasheet/`: dataheets and basic KiCad example 
 - `libraries/`: libraries used in KiCad
 - `works/`: planned tasks
 - `images/`: reference images

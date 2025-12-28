@@ -1,0 +1,31 @@
+### Footprint positions - created on 2024-11-07T23:04:19-0500 ###
+### Printed by KiCad version 8.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                            PosX       PosY       Rot  Side
+C1        22uF                  C_0603_1608Metric                                              181.9650  -106.1593  180.0000  top
+C2        22uF                  C_0603_1608Metric                                              181.9650  -101.6593  180.0000  top
+C3        0.1uF                 C_0603_1608Metric                                              129.0500   -61.3993    0.0000  top
+C4        10uF                  C_0603_1608Metric                                              131.7750   -56.3993  180.0000  top
+C5        0.1uF                 C_0603_1608Metric                                              131.7750   -54.3993  180.0000  top
+C6        22uF                  C_0603_1608Metric                                              113.4669  -101.5685    0.0000  top
+C7        22uF                  C_0603_1608Metric                                              113.4866  -106.0011    0.0000  top
+J2        Alimentación_DC      PHOENIX_1935161                                                166.0000  -118.8993   90.0000  top
+J3        Motor_A               PHOENIX_1935161                                                121.0000   -66.8993   90.0000  top
+J4        Motor_B               PHOENIX_1935161                                                174.0000   -66.8993  -90.0000  top
+J5        USB4105-GF-A          GCT_USB4105-GF-A                                               194.5000  -121.8993   90.0000  top
+J6        Screw_Terminal_01x06  TerminalBlock_Phoenix_PT-1,5-6-5.0-H_1x06_P5.00mm_Horizontal   107.0250  -136.8993    0.0000  top
+J7        Screw_Terminal_01x06  TerminalBlock_Phoenix_PT-1,5-6-5.0-H_1x06_P5.00mm_Horizontal   163.0000  -136.8993    0.0000  top
+R1        10K                   R_0603_1608Metric                                              134.2500   -78.2493  -90.0000  top
+R2        150                   R_0603_1608Metric                                              159.5000   -78.2243   90.0000  top
+R3        10K                   R_0603_1608Metric                                              129.0000   -59.3993    0.0000  top
+R4        5.1K                  R_0603_1608Metric                                              190.1750  -129.3993  180.0000  top
+R5        5.1K                  R_0603_1608Metric                                              184.5000  -113.7243  -90.0000  top
+U1        ROB-14450             MODULE_ROB-14450                                               147.5114   -96.4941   90.0000  top
+U2        LM1117DT-3.3          TO-252-3_TabPin2                                               103.9350  -103.8743  180.0000  top
+U3        ~                     switches_latching                                              127.0000   -78.8993    0.0000  top
+U4        ~                     switches_latching                                              127.5000  -120.3993   90.0000  top
+U5        ESP32-S3-WROOM-1      ESP32-S3-WROOM-1                                               147.5189   -59.5069    0.0000  top
+U6        ~                     switches_latching                                              168.0000   -82.8993  180.0000  top
+U7        LM1117DT-3.3          TO-252-3_TabPin2                                               191.2400  -103.8993    0.0000  top
+## End

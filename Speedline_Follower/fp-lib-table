@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dpdt_switch")(type "KiCad")(uri "/home/david/Documentos/libraries/dpdt_switch.pretty")(options "")(descr ""))
+  (lib (name "USB-C_v2_4105_GF_A")(type "KiCad")(uri "/home/david/Documentos/libraries/USB/USB-C_v2_4105_GF_A")(options "")(descr ""))
+  (lib (name "Terminal_Block_1x2P_P=5mm")(type "KiCad")(uri "/home/david/Documentos/libraries/Connectors/Terminal_Block/Terminal_Block_1x2P_P=5mm")(options "")(descr ""))
+  (lib (name "Terminal_Block_1x6")(type "KiCad")(uri "/home/david/Documentos/libraries/Connectors/Terminal_Block/Terminal_Block_1x6")(options "")(descr ""))
+)

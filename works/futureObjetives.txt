@@ -1,0 +1,5 @@
+1. Implementar led rgb
+2. Diseñar circuito de regulacion a 3.3 ( para el arduino nano esp32)
+3. Establecer columnas de kicad para Organizacion de informacion para COMPONENTS COTIZATION 
+4. Discusion de funcionalidad de arduino nano.
+5. Posbilidad de Impresion pcb en PcbperuStore con ENSAMBLAJE _ proprcion de componetntes o no.

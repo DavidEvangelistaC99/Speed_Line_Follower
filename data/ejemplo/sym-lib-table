@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "driver")(type "KiCad")(uri "${KIPRJMOD}/driver.kicad_sym")(options "")(descr ""))
+  (lib (name "dpdt_switch")(type "KiCad")(uri "${KIPRJMOD}/dpdt_switch.kicad_sym")(options "")(descr ""))
+  (lib (name "dpdt_switch_")(type "KiCad")(uri "/home/david/Documentos/libraries/dpdt_switch.pretty/dpdt_switch.kicad_sym")(options "")(descr ""))
+)

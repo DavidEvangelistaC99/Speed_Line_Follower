@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr "")(disabled))
+  (lib (name "dpdt_switch_")(type "KiCad")(uri "/home/david/Documentos/libraries/dpdt_switch.pretty")(options "")(descr ""))
+)

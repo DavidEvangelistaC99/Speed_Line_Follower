@@ -1,4 +1,4 @@
-# Line Follower Projec
+# Line Follower Project
 
 ## Overview
 This repository documents the progress of the line follower project, developed during my studies in Electronics Engineering at UNI. The project focuses on the design of a line-following robotic system.

@@ -1,11 +1,4 @@
-# Line Follower Project
-
-<p align="center">
-  <img src="images/reference.png" width="900">
-</p>
-<p align="center">
-  <em>Reference Line Follower.</em>
-</p>
+# Line Follower Projec
 
 ## Overview
 This repository documents the progress of the line follower project, developed during my studies in Electronics Engineering at UNI. The project focuses on the design of a line-following robotic system.

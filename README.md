@@ -11,4 +11,6 @@ This repository documents the progress of the line follower project, developed d
 - `future_work/`: planned tasks
 - `images/`: reference images
 
-
+## Author
+**David Fernando Evangelista Cuti**
+National University of Engineering (UNI), Peru
